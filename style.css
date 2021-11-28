@@ -1,0 +1,18 @@
+.heading{
+    top: 0px;
+    position: fixed;
+    
+}
+#hg-size{
+    font-size: 20px;
+}
+canvas{
+    border:5px solid rgb(144, 117, 102);
+    border-radius: 20px;
+    margin-top: 350px;
+}
+
+body {
+    font-family: 'Major Mono Display', monospace;
+    background-size: cover;
+}
